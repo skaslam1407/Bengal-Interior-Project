@@ -1,4 +1,0 @@
-[07-Nov-2024 16:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home3/bengaru6/public_html/wp-content/themes/twentytwentyfour/patterns/hidden-404.php:10
-Stack trace:
-#0 {main}
-  thrown in /home3/bengaru6/public_html/wp-content/themes/twentytwentyfour/patterns/hidden-404.php on line 10
