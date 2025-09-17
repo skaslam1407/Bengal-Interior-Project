@@ -1,0 +1,46 @@
+# WordPress core files (optional if you only manage theme/plugin)
+wp-admin/
+wp-includes/
+
+# Logs and debug
+debug.log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache / temp
+*.tmp
+*.swp
+*.swo
+
+# Uploads (large user files, usually not in repo)
+wp-content/uploads/
+
+# Backups
+*.sql
+*.tar.gz
+*.zip
+
+# Composer / Node
+vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment-specific
+wp-content/cache/
+wp-content/backups/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+wp-content/wp-cache-config.php
+
+# Credentials (never commit!)
+wp-config.php
+.env
